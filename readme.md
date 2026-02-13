@@ -10,7 +10,7 @@ Create an input file stream and attempt to open the file named data.csv.
 
 If the file does not open successfully, print an error message and end the program.
 
-While there are still lines left to read in the file, do the following:
+While there are still lines left to read in the file, do the following
 
 Read one entire line from the file and store it in a string variable.
 
